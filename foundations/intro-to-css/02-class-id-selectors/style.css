@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.impar {
+  background-color: pink;
+  font-family: "verdana", "dejavu sans","sans-serif";
+}
+#number-2 {
+  color: blue;
+  font-size: 36px;
+}
+.adjut-font-size {
+  font-size: 24px;
+}
+#number-4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
